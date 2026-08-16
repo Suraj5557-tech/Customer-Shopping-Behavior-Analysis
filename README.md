@@ -31,10 +31,10 @@ The final deliverables include an interactive **Power BI Dashboard** and a struc
 ---
 
 ## 📁 Repository Deliverables
-* `Customer_Shopping_Behavior_Analysis_Report.docx` - Full detailed executive analysis report.
-* `Customer_Behavior_Dashboard.pbix` - Interactive Power BI visual dashboard.
-* `data_cleaning.py` - Python script for data preprocessing and DB staging.
-* `analysis_queries.sql` - PostgreSQL queries used for analytical breakdowns.
+* [`Customer_Shopping_Behavior_Analysis_Report.docx`](Customer_Shopping_Behavior_Analysis_Report.docx) - Full detailed executive analysis report.
+* [`customer_behavior_dashboard.pbix`](customer_behavior_dashboard.pbix) - Interactive Power BI visual dashboard.
+* [`Customer_analysis.ipynb`](Customer_analysis.ipynb) - Python analysis notebook.
+* [`customer_behavior_sql_queries.sql`](customer_behavior_sql_queries.sql) - PostgreSQL queries used for analytical breakdowns.
 
 ---
 
