@@ -31,11 +31,12 @@ The final deliverables include an interactive **Power BI Dashboard** and a struc
 ---
 
 ## 📁 Repository Deliverables
+* [`Business Problem Document.pdf`](Business%20Problem%20Document.pdf) - Business problem statement, objectives, and project scope.
 * [`Customer_Shopping_Behavior_Analysis_Report.pdf`](Customer_Shopping_Behavior_Analysis_Report.pdf) - Full detailed executive analysis report.
 * [`customer_behavior_dashboard.pbix`](customer_behavior_dashboard.pbix) - Interactive Power BI visual dashboard.
 * [`Customer_analysis.ipynb`](Customer_analysis.ipynb) - Python analysis notebook.
 * [`customer_behavior_sql_queries.sql`](customer_behavior_sql_queries.sql) - PostgreSQL queries used for analytical breakdowns.
-
+  
 ---
 
 ## 💡 Strategic Recommendations
