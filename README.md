@@ -4,6 +4,7 @@
 This project delivers a comprehensive, data-driven analysis of retail customer transactions ($N = 3,900$). By engineering data pipelines in **Python**, running analytical queries in **PostgreSQL**, and building an interactive dashboard in **Power BI**, this project uncovers actionable insights into customer demographics, spending patterns, discount elasticity, and subscription retention.
 
 The final deliverables include an interactive **Power BI Dashboard** and a structured **Microsoft Word Executive Report** designed to drive business strategy and revenue optimization.
+![Power BI Dashboard](Dashboard_screenshot.png)
 
 ---
 
